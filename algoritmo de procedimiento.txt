@@ -1,0 +1,10 @@
+Diseñe un algoritmo en base al procedimiento presentado, enumere cada acción como un paso e indique las posibles decisiones que se pueden tomar. 
+1.	Pedir el nombre.
+2.	Edad para ver si aplica a la cotización si no finaliza el programa.
+3.	Si aplica a la cotización realiza el recargo por la edad que tenga.
+4.	Si está casado en caso si también la edad del conyugue para calcular el recargo extra si no, no realiza el cargo extra.
+5.	Si tiene hijos en caso si también la cantidad de hijos para agregar el cargo extra por cada hijo si no, no realiza el cargo extra.
+6.	Si tiene propiedades para realizar el cargo extra sobre la cotización si no, no realiza cargos extras.
+7.	Si tiene salario se le hace un cargo sobre su salario.
+8.	Luego de tener todas las operaciones definidas y detalladas se operan para tener los datos que necesitamos.
+9.	Para finalizar salta una alerta donde muestra los resultados finales.
