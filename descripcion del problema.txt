@@ -1,0 +1,27 @@
+Analice los requerimientos y, en sus propias palabras, explique cuál es el problema, y que casos se están considerando para cambiar el valor de la cotización.
+
+Requerimientos:  
+El problema del programa pide los siguientes requerimientos 
+•	ingresen la palabra salir para finalizar el programa en caso contrario se mantiene realizando cotizaciones.
+•	Si la edad que se ingresa en menor de edad el programa no realiza nada, en caso contrario corre el programa.
+•	Se solicitan mas datos para ver si aplica a cargos extras en caso contrario solo realiza el cargo por la edad que tenga el usuario.
+
+Cuál es el problema: 
+•	El problema es que la aseguradora TK-U esta perdiendo posibles clientes debido al atraso en las cotizaciones y buscan una forma de poder realizarlos en un menor tiempo.
+•	Con el programa buscan agilizar las cotizaciones al 100% 
+
+Casos que se consideran para cambiar el valor de la cotización:
+•	La edad del asegurado. 
+o	18 a 24 años 10%
+o	25 a 49 años 20%
+o	50 años o más 30%
+•	Si en caso es casado según la edad del cónyuge
+o	18 a 24 años 10%
+o	25 a 49 años 20%
+o	50 años o más 30%
+•	Si tiene hijos, tiene un cargo base en porcentaje por cada hijo
+o	20% por cada hijo
+•	Si tiene propiedades, un recargo en porcentaje sobre la cotización
+o	35% por cada propiedad sobre la cotización
+•	Si tiene salario, un recargo en porcentaje sobre su salario
+o	5% sobre su salario
